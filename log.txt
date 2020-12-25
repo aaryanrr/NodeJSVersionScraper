@@ -1,0 +1,17 @@
+{'Date/Time': '2020-12-05 15:22:15.004591', 'Version-fetched': '14.15.1', 'Initial-version': 'v14.15.1'}
+{'Date/Time': '2020-12-05 17:20:11.710550', 'Version-fetched': '14.15.1', 'Initial-version': 'v14.15.1'}
+{'Date/Time': '2020-12-05 19:49:20.707901', 'Version-fetched': '14.15.1', 'Initial-version': 'v14.15.1'}
+{'Date/Time': '2020-12-05 22:21:40.095757', 'Version-fetched': '14.15.1', 'Initial-version': 'v14.15.1'}
+{'Date/Time': '2020-12-05 23:11:44.458695', 'Version-fetched': '14.15.1', 'Initial-version': 'v14.15.1'}
+{'Date/Time': '2020-12-06 13:41:03.011994', 'Version-fetched': '14.15.1', 'Initial-version': 'v14.15.1'}
+{'Date/Time': '2020-12-06 19:55:11.758662', 'Version-fetched': '14.15.1', 'Initial-version': 'v14.15.1'}
+{'Date/Time': '2020-12-12 14:58:40.858404', 'Version-fetched': '14.15.1', 'Initial-version': 'v14.15.1'}
+{'Date/Time': '2020-12-14 22:18:21.198150', 'Version-fetched': '14.15.1', 'Initial-version': 'v14.15.1'}
+{'Date/Time': '2020-12-16 11:08:25.150983', 'Version-fetched': '14.15.2', 'Initial-version': 'v14.15.1'}
+{'Date/Time': '2020-12-18 12:56:20.227921', 'Version-fetched': '14.15.3', 'Initial-version': 'v14.15.2'}
+{'Date/Time': '2020-12-18 21:54:00.789895', 'Version-fetched': '14.15.3', 'Initial-version': 'v14.15.3'}
+{'Date/Time': '2020-12-19 16:21:46.017777', 'Version-fetched': '14.15.3', 'Initial-version': 'v14.15.3'}
+{'Date/Time': '2020-12-19 21:26:08.689944', 'Version-fetched': '14.15.3', 'Initial-version': 'v14.15.3'}
+{'Date/Time': '2020-12-20 19:48:59.047081', 'Version-fetched': '14.15.3', 'Initial-version': 'v14.15.3'}
+{'Date/Time': '2020-12-21 11:58:01.975191', 'Version-fetched': '14.15.3', 'Initial-version': 'v14.15.3'}
+{'Date/Time': '2020-12-21 14:45:14.123181', 'Version-fetched': '14.15.3', 'Initial-version': 'v14.15.3'}
