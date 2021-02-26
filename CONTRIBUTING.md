@@ -2,7 +2,7 @@
 
 ## *Thanks for considering to Contribute to this Repository!* 🙂
 ---
-### **Contribute Code: **
+### **Contribute Code:**
 
 We like code commits a lot! They're super handy, and they keep the project going and doing the work it needs to do to be useful to others.
 
