@@ -18,26 +18,26 @@ def NodeJS():
     URL = "https://nodejs.org/en/download/"
 
     page = requests.get(URL)
-    # print("Respone code is:", page)
+    # print("Response code is:", page)
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    results = soup.find(id='main') # Finds the content wrapped inside the tag with id main
-    
+    results = soup.find(id='main')  # Finds the content wrapped inside the tag with id main
+
     # Finds the p tag with the class color-lightgray from the results obtained from above
     required_results = results.find_all('p', class_='color-lightgray')
 
     # print(required_results)
 
     for required in required_results:
-        
+
         # Finds the strong tag
-        version_name = required.find('strong') 
+        version_name = required.find('strong')
         if None in version_name:
             continue
-        
+
         # Getting the text inside the strong tag
-        print("Latest version of Node is:", version_name.text.strip()) 
+        print("Latest version of Node is:", version_name.text.strip())
 
         # Runs the node -v command and gets the printed version number 
         initial_version = str(subprocess.check_output(['node', '-v']).strip()).split("'")
